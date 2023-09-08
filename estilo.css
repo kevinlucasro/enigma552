@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(48, 27, 53);
+    color: rgb(87, 85, 85);
+
+}
+
+h3 {
+    text-align: center;
+}
+
+.tabela{
+    margin-left: 480px;
+    margin-top: 35px;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+}
